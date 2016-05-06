@@ -96,7 +96,7 @@
 					</nav>
 				</div>
 				<div id="bgimage" class="col-xs-12 col-sm-12 col-md-8 col-lg-8">
-					<h1 class="text-uppercase page-title">departamento</h1>	
+					<h1 class="text-uppercase page-title"><?php the_title()?></h1>	
 				</div>
 			</header>	
 		</div> <!-- Header End -->
